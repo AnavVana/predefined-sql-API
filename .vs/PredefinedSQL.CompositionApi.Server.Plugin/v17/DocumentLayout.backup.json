@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OneIM\\source\\repos\\PredefinedSQL.CompositionApi.Server.Plugin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PredefinedSQL.CompositionApi.Server.Plugin||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6035B725-FB52-4ED1-A96D-926110C4718A}|PredefinedSQL.CompositionApi.Server.Plugin.csproj|c:\\users\\oneim\\source\\repos\\predefinedsql.compositionapi.server.plugin\\predefinedsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6035B725-FB52-4ED1-A96D-926110C4718A}|PredefinedSQL.CompositionApi.Server.Plugin.csproj|solutionrelative:predefinedsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6035B725-FB52-4ED1-A96D-926110C4718A}|PredefinedSQL.CompositionApi.Server.Plugin.csproj|c:\\users\\oneim\\source\\repos\\predefinedsql.compositionapi.server.plugin\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 80,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PredefinedSQL.CompositionApi.Server.Plugin",
+              "DocumentMoniker": "C:\\Users\\OneIM\\source\\repos\\PredefinedSQL.CompositionApi.Server.Plugin\\PredefinedSQL.CompositionApi.Server.Plugin.csproj",
+              "RelativeDocumentMoniker": "PredefinedSQL.CompositionApi.Server.Plugin.csproj",
+              "ToolTip": "C:\\Users\\OneIM\\source\\repos\\PredefinedSQL.CompositionApi.Server.Plugin\\PredefinedSQL.CompositionApi.Server.Plugin.csproj",
+              "RelativeToolTip": "PredefinedSQL.CompositionApi.Server.Plugin.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-19T07:46:30.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PredefinedSQL.cs",
+              "DocumentMoniker": "C:\\Users\\OneIM\\source\\repos\\PredefinedSQL.CompositionApi.Server.Plugin\\PredefinedSQL.cs",
+              "RelativeDocumentMoniker": "PredefinedSQL.cs",
+              "ToolTip": "C:\\Users\\OneIM\\source\\repos\\PredefinedSQL.CompositionApi.Server.Plugin\\PredefinedSQL.cs",
+              "RelativeToolTip": "PredefinedSQL.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:21:56.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
