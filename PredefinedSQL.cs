@@ -30,7 +30,7 @@ namespace QBM.CompositionApi
             builder.AddMethod(Method.Define("PredefinedSQL/predefinedsql")
                   .Handle<PostedSQL, List<List<ColumnData>>>("POST", async (posted, qr, ct) =>
                   {
-                      //var strUID_Person = qr.Session.User().Uid;                // Retrieve the UID of the currently logged-in user from the session
+                      //var strUID_Person = qr.Session.User().Uid;                // Retrieve the UID of the currently logged-in user from the session aaaaabbbbbbvccccc
 
                       var results = new List<List<ColumnData>>();               // Initialize a list to hold the results, each result is a list of ColumnData objects (rows)
 
