@@ -23,14 +23,14 @@ using System.Runtime.ConstrainedExecution;
 
 namespace QBM.CompositionApi
 {
-    public class PredefinedSQL : IApiProviderFor<QER.CompositionApi.Portal.PortalApiProject>, IApiProvider
+    public class PredefinedSQL : IApiProviderFor<QER.CompositionApi.Portal.PortalApiProject>, IApiProvider // This is a comment to test BRANCH
     {
         public void Build(IApiBuilder builder)
         {
             builder.AddMethod(Method.Define("PredefinedSQL/predefinedsql")
                   .Handle<PostedSQL, List<List<ColumnData>>>("POST", async (posted, qr, ct) =>
                   {
-                      //var strUID_Person = qr.Session.User().Uid;                // Retrieve the UID of the currently logged-in user from the session aaaaabbbbbbvccccc
+                      //var strUID_Person = qr.Session.User().Uid;                // Retrieve the UID of the currently logged-in user from the session 
 
                       var results = new List<List<ColumnData>>();               // Initialize a list to hold the results, each result is a list of ColumnData objects (rows)
 
