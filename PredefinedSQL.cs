@@ -23,7 +23,7 @@ using System.Runtime.ConstrainedExecution;
 
 namespace QBM.CompositionApi
 {
-    public class PredefinedSQL : IApiProviderFor<QER.CompositionApi.Portal.PortalApiProject>, IApiProvider // This is a comment to test BRANCH
+    public class PredefinedSQL : IApiProviderFor<QER.CompositionApi.Portal.PortalApiProject>, IApiProvider 
     {
         public void Build(IApiBuilder builder)
         {
