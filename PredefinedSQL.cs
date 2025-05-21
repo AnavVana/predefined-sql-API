@@ -21,7 +21,7 @@ using VI.DB.DataAccess;
 using VI.DB.Sync;
 using System.Runtime.ConstrainedExecution;
 
-namespace QBM.CompositionApi
+namespace QBM.CompositionApi // This is a BRANCH TEST comment
 {
     public class PredefinedSQL : IApiProviderFor<QER.CompositionApi.Portal.PortalApiProject>, IApiProvider 
     {
